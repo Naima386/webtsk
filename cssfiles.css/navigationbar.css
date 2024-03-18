@@ -1,0 +1,11 @@
+.navigation
+{
+background-color: black;
+padding: 10px;
+}
+.navigation a
+{
+    text-decoration: none;
+    text-align:right;
+    color: antiquewhite;
+}
